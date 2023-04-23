@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="bootstrap.bundle.js" type="NodeJSConfigurationType" singleton="false" path-to-node="node" nameIsGenerated="true" node-parameters="$AffectedModuleNames$" path-to-js-file="bootstrap.bundle.js" working-dir="$PROJECT_DIR$/js">
+    <method v="2" />
+  </configuration>
+</component>
